@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": {
-    "name": "Nadeem",
-    "email": "abdul.proffs@gmail.com"
+    "name": "Abdul-Nadeem",
+    "email": "nadeem.proff@gmail.com"
   },
   "license": "MIT",
   "dependencies": {
